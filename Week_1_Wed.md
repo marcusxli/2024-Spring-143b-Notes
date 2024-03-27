@@ -6,9 +6,9 @@
 
 The below is the note template.
 
-## Week X: [Topic Name]
+## Week 1: [How to use GitHub]
 
-### Date: [Date]
+### Date: [3/27/24]
 
 ## Key Concepts
 
